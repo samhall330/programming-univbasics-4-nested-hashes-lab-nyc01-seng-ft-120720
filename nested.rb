@@ -89,6 +89,7 @@ def adding_matz
 		# }
 		# return the entire updated hash
 		programmer_hash[:yukihiro_matsumoto][{:known_for => "Ruby"}, {:languages => ["Lisp", "C"]}]
+		programmer_hash
 
 end
 
